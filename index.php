@@ -9,7 +9,7 @@
 	<form action="submitForm.php" method="post">
     <label for="name">Name (Legal/Official) :</label><input type="text" id="name" name="name" pattern="^[^0-9]*$" required>
 		
-		<label for="email">Matric No :</label><input type="number" id="matric No" name="matric no" required>
+		<label for="email">Matric No :</label><input type="number" id="matric_No" name="matric no" required>
 		
 		<label for="address">Current Address :</label><input type="text" id="address" name="adress" required>
 		
